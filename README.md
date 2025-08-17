@@ -1,4 +1,4 @@
-# kayish-demo
+# Kayish-demo
 This is first time doing or using this website
 <br>
 <hr>
